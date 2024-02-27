@@ -1,0 +1,12 @@
+.first:hover{
+    background-color: darkgreen;
+}
+
+.first{
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    margin-right: 5px;
+    padding: 10px;
+}
